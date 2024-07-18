@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/YashPrajapati27/Credit-Card-Fraud-Detection/blob/main/credit%20card%20fraud%20detection.png)
 # Credit Card Fraud Detection
 
 This project aims to detect fraudulent credit card transactions using machine learning. The primary algorithm used is Linear Regression, and several Python libraries, including NumPy, Matplotlib, Seaborn, and Scikit-learn (sklearn), are utilized for data processing, visualization, and model building.
